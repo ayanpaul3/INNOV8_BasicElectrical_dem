@@ -1,0 +1,283 @@
+/* Intro Start  */
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://example.com/futuristic-engineering-background.jpg'); /* Replace with your image URL */
+    background-size: cover;
+    color: #000000;
+    margin: 0;
+    padding: 0;
+}
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+    background: rgb(253, 251, 251);
+}
+.nav a{
+
+    font-size: 30px;
+    color: #cf46eb;
+}
+h1, h2, h4 {
+    text-align: center;
+}
+h3 {
+    text-align: left;
+}
+.semester {
+    margin-bottom: 40px;
+}
+.subject {
+    margin-bottom: 20px;
+}
+.chapter {
+    margin-left: 70px;
+}
+a {
+    color: rgb(253, 253, 253);
+}
+.nav {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.nav a {
+    margin: 0 10px;
+    color: rgb(225, 247, 65);
+    text-decoration: none;
+}
+.nav a:hover {
+    text-decoration: underline;
+}
+.syllabus {
+    margin-top: 20px;
+}
+.video-container {
+    margin: 20px 0;
+}
+iframe {
+    width: 100%;
+    height: 315px;
+    border: none;
+    border-radius: 8px;
+}
+/* Intro End  */
+
+/* Module One Start  */
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+}
+h1, h2, h3 {
+    color: #007bff;
+}
+.topic {
+    margin-bottom: 40px;
+}
+.video-container {
+    margin: 20px 0;
+}
+iframe {
+    width: 100%;
+    height: 315px;
+    border: none;
+    border-radius: 8px;
+}
+
+/* Module One End  */
+
+
+/* Module Two Start  */
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+}
+h1, h2, h3 {
+    color: #007bff;
+}
+.topic {
+    margin-bottom: 40px;
+}
+.video-container {
+    margin: 20px 0;
+}
+iframe {
+    width: 100%;
+    height: 315px;
+    border: none;
+    border-radius: 8px;
+}
+
+/* Module Two End  */
+
+
+/* Module Three Start  */
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+}
+h1, h2, h3 {
+    color: #007bff;
+}
+.topic {
+    margin-bottom: 40px;
+}
+.video-container {
+    margin: 20px 0;
+}
+iframe {
+    width: 100%;
+    height: 315px;
+    border: none;
+    border-radius: 8px;
+}
+
+/* Module Three End  */
+
+/* Module 4 Start  */
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+}
+h1, h2, h3 {
+    color: #007bff;
+}
+.topic {
+    margin-bottom: 40px;
+}
+.video-container {
+    margin: 20px 0;
+}
+iframe {
+    width: 100%;
+    height: 315px;
+    border: none;
+    border-radius: 8px;
+}
+
+/* Module 4 End  */
+
+
+/* Module 5 Start  */
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+}
+h1, h2, h3 {
+    color: #007bff;
+}
+.topic {
+    margin-bottom: 40px;
+}
+.video-container {
+    margin: 20px 0;
+}
+iframe {
+    width: 100%;
+    height: 315px;
+    border: none;
+    border-radius: 8px;
+}
+/* Module 5 End  */
+
+/* Module 6 Start  */
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+}
+h1, h2, h3 {
+    color: #007bff;
+}
+.topic {
+    margin-bottom: 40px;
+}
+.video-container {
+    margin: 20px 0;
+}
+iframe {
+    width: 100%;
+    height: 315px;
+    border: none;
+    border-radius: 8px;
+}
+
+
+
+
+/* Module 6 End  */
+
+/* PYQ CSS Start */
+
+
+.footer {
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
+    border-top: 1px solid #ccc;
+}
+.footer p {
+    font-weight: bold;
+}
+.footer ul {
+    list-style-type: none;
+    padding: 0;
+}
+.footer li {
+    margin-bottom: 10px;
+}
+.footer a {
+    text-decoration: none;
+    color: #007bff;
+}
+.footer a:hover {
+    text-decoration: underline;
+}
+
+
+
+/* PYQ CSS End  */
+
+/* Credits Start  */
+
+.acknowledgements {
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+    margin-top: 20px;
+}
+.acknowledgements h2 {
+    font-size: 18px;
+    color: #444;
+}
+.acknowledgements p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+.acknowledgements a {
+    color: #007bff;
+    text-decoration: none;
+}
+.acknowledgements a:hover {
+    text-decoration: underline;
+}
+
+
+/* Credit End  */
+
+
+
+
+
+
+
+
+
