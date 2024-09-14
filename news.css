@@ -13,11 +13,6 @@ body {
     padding: 20px;
     background: rgb(253, 251, 251);
 }
-.nav a{
-
-    font-size: 30px;
-    color: #cf46eb;
-}
 h1, h2, h4 {
     text-align: center;
 }
@@ -41,9 +36,11 @@ a {
     margin-bottom: 20px;
 }
 .nav a {
+    font-size: 30px;
     margin: 0 10px;
-    color: rgb(225, 247, 65);
+    color:#cf46eb;
     text-decoration: none;
+    font-weight: bold;
 }
 .nav a:hover {
     text-decoration: underline;
@@ -74,6 +71,11 @@ h1, h2, h3 {
 .topic {
     margin-bottom: 40px;
 }
+.topic iframe{
+
+    height: 400px;
+    width: 700px;
+}
 .video-container {
     margin: 20px 0;
 }
@@ -93,6 +95,10 @@ iframe {
     max-width: 1200px;
     margin: auto;
     padding: 20px;
+}
+.container iframe{
+    height: 600px;
+    width: 90%;
 }
 h1, h2, h3 {
     color: #007bff;
